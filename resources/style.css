@@ -3,7 +3,7 @@
 
  
 
-/* || General styles */
+/*  General styles */
 * {
   color: #A0937D;
 }
@@ -48,7 +48,7 @@ body {
     text-align: center;
     font-size: 18px;
   }
-  /* || Header and main navigation*/
+  /*  Header and main navigation */
   .logo {
    
         display: grid;
@@ -120,7 +120,7 @@ body {
     margin-left: 50vw;
   }
   
-  /* || About me section*/
+  /* About me section */
   .about-me-container {
     display: flex;
     margin-left: 5em;
@@ -143,7 +143,7 @@ body {
   #fun-fact {
     font-size: 1.5rem;
   }
-  /* || Projects section */
+  /* Projects section */
   
   .flexbox-container {
     display: flex;
@@ -152,7 +152,7 @@ body {
     /*background-color: white;*/
     padding: 40px 0;
     flex-direction: column;
-  }
+  } 
   
   .flexbox-container {
     color: #F6E6CB;
@@ -170,7 +170,7 @@ body {
   }
 
 
-  /* || Skills section*/
+  /* Skills section */
 
  
   .fa-brands {
@@ -180,10 +180,10 @@ body {
 
 
 
-  /* || Contact section*/
+  /* Contact section */
 
 
-  /* || Website counter*/
+  /* Website counter */
   
   /* Center child elements */
   /*body,*/
