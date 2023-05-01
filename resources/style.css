@@ -37,8 +37,8 @@ body {
   h2 {
     padding: 30px;
     font-size: 2rem;
-    color: #1a1818;
-  }
+    color: #1a1818; 
+  } 
  h4 {
   color: #1a1818;
   text-align: center;
@@ -152,11 +152,14 @@ body {
     /*background-color: white;*/
     padding: 40px 0;
     flex-direction: column;
-  } 
-  
-  .flexbox-container {
     color: #F6E6CB;
     text-align: center;
+  }
+
+  .thumbnail {
+    width: 300px;
+    height: 200px;
+    object-fit: cover;
   }
   
   .flex-items {
